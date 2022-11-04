@@ -1,2 +1,2 @@
 # DuoRide
-A companion for your car
+A companion for your car @~@
