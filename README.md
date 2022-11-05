@@ -28,5 +28,5 @@
 
 ## Sorces
 
-- (https://scribles.net/setting-up-bluetooth-oob-pairing-with-nfc-on-raspberry-pi/)
+- https://scribles.net/setting-up-bluetooth-oob-pairing-with-nfc-on-raspberry-pi/
 
