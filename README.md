@@ -25,3 +25,8 @@
 
 - [@ChmieleskiFilip](https://github.com/ChmieleskiFilip)
 - [@MasterSun8](https://github.com/MasterSun8)
+
+## Sorces
+
+- (https://scribles.net/setting-up-bluetooth-oob-pairing-with-nfc-on-raspberry-pi/)
+
