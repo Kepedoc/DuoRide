@@ -13,8 +13,9 @@
 ## Must haves
  
 **Soft:** 
-* python
-* mpg123
+- python
+  - nfcpy
+- mpg123
 
 **Hard:** 
 
