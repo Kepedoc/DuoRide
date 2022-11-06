@@ -15,11 +15,12 @@
 **Soft:** 
 - python
   - nfcpy
-- mpg123
+  - mpg123
 
 **Hard:** 
 
 * Raspberry Pi (3b+)
+* nfc reader
 
 ## Authors
 
