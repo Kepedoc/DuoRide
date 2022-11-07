@@ -13,16 +13,16 @@
 - [ ] Reports: trafic, cameras and even if you go above the speed limit.
 
 ## Built with 🏗️
-**Soft:** 
+**Software:** 
 - python
   - nfcpy
   - mpg123
 
-**Hard:** 
+**Hardware:** 
 * Raspberry Pi (3b+)
 * nfc reader
 
-## Authors
+## Contributing 👥
 
 - [@ChmieleskiFilip](https://github.com/ChmieleskiFilip)
 - [@MasterSun8](https://github.com/MasterSun8)
