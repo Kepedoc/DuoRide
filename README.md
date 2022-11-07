@@ -1,10 +1,10 @@
 # DuoRide
 
-## Functionality
+## About The Project 🔍
 
 **DuoRide** is a device/app that is supposed to keep you company by using voice lines. 
 
-**Roadmap** 🗺️
+## **Roadmap** 🗺️
 - [x] Greet
 - [ ] Say good bye
 - [ ] Stream you music
