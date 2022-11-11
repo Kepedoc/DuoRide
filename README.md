@@ -21,7 +21,7 @@
 
 **Hardware:** 
 * Raspberry Pi (3b+)
-* nfc reader
+* NFC reader
 
 ## Contributing 👥
 
