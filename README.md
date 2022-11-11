@@ -6,10 +6,11 @@
 
 ## **Roadmap** 🗺️
 - [x] Greet
-- [ ] Say good bye
 - [ ] Stream you music
+- [ ] Say good bye
 - [ ] Be humorous 
 - [ ] Remind you if you forget you phone
+- [ ] Profiles for different users (different voices).
 - [ ] Reports: trafic, cameras and even if you go above the speed limit.
 
 ## Built with 🏗️
