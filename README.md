@@ -30,4 +30,5 @@
 
 ## Sorces
 
-- https://scribles.net/setting-up-bluetooth-oob-pairing-with-nfc-on-raspberry-pi/
+- [Establishing Bluetooth connection through NFC](https://scribles.net/setting-up-bluetooth-oob-pairing-with-nfc-on-raspberry-pi/)
+- [readme.so](https://readme.so/editor)
