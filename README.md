@@ -25,7 +25,7 @@
 
 ## Contributing 👥
 
-- [@ChmieleskiFilip](https://github.com/ChmieleskiFilip)
+- [@Kepedoc](https://github.com/Kepedoc)
 - [@MasterSun8](https://github.com/MasterSun8)
 - [@Igoslaw](https://github.com/Igoslaw)
 
