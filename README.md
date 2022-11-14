@@ -9,7 +9,7 @@
 - [ ] Stream you music
 - [ ] Say good bye
 - [ ] Be humorous 
-- [ ] Remind you if you forget you phone
+- [ ] Remind you if you forget your phone
 - [ ] Profiles for different users (different voices).
 - [ ] Reports: trafic, cameras and even if you go above the speed limit.
 
