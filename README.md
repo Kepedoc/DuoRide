@@ -33,3 +33,4 @@
 
 - [Establishing Bluetooth connection through NFC](https://scribles.net/setting-up-bluetooth-oob-pairing-with-nfc-on-raspberry-pi/)
 - [readme.so](https://readme.so/editor)
+- [entrance music](https://www.raspberrypi.com/news/how-to-play-entrance-music-on-your-raspberry-pi/)
