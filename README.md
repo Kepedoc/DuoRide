@@ -30,7 +30,8 @@
 - [@Igoslaw](https://github.com/Igoslaw)
 
 ## Sorces
-
+- [OBD II PI](https://www.instructables.com/OBD-Pi/)
+- [Bluetooth speaker](https://www.instructables.com/Raspberry-Pi-Bluetooth-Speaker/)
 - [Establishing Bluetooth connection through NFC](https://scribles.net/setting-up-bluetooth-oob-pairing-with-nfc-on-raspberry-pi/)
 - [readme.so](https://readme.so/editor)
 - [entrance music](https://www.raspberrypi.com/news/how-to-play-entrance-music-on-your-raspberry-pi/)
