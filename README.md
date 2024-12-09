@@ -26,9 +26,7 @@
 ## Contributing 👥
 
 - [@Kepedoc](https://github.com/Kepedoc)
-- [@MasterSun8](https://github.com/MasterSun8)
-- [@Igoslaw](https://github.com/Igoslaw)
-
+  
 ## Sorces
 - [OBD II PI](https://www.instructables.com/OBD-Pi/)
 - [Bluetooth speaker](https://www.instructables.com/Raspberry-Pi-Bluetooth-Speaker/)
